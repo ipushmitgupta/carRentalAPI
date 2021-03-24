@@ -5,5 +5,5 @@ The app has been deployed on heroku App Link : https://car-rental-pushmit.heroku
 
 MongoDB access to look into databse. https://account.mongodb.com/ username : gpushmit@gmail.com password : whitepanda
 
-Hi, Please accept my appologies, I'm still working on this task. Insomnia Collection is available on this link : https://drive.google.com/drive/folders/1_yTwvZmSxno7MtUvqy8p8Z3SA-AWKatc?usp=sharing
+Insomnia Collection is available on this link : https://drive.google.com/drive/folders/1_yTwvZmSxno7MtUvqy8p8Z3SA-AWKatc?usp=sharing
 
